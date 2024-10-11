@@ -1,0 +1,1 @@
+from feature_extraction import SimpleNN, get_data_for_encoder
